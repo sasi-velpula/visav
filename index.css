@@ -1,0 +1,48 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    
+}
+.container-fluid{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background-color: transparent;
+    box-shadow: 0px 0px 10px #000000;
+    width: 500px;   
+}
+
+    
+.carousel-caption{
+    display: none;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    width: 600px;
+    background-color: transparent;
+    box-shadow: 0px 0px 10px #000000;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+    font-stretch: normal;
+    font-size-adjust: none;
+    line-height: normal;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-indent: 0px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    flex: 0 0 auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    order: 0;
+    float: none;
+}
